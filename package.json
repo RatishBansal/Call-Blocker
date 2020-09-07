@@ -1,0 +1,19 @@
+{
+  "name": "call-blocker",
+  "version": "1.0.0",
+  "description": "Call Blocker",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RatishBansal/Call-Blocker.git"
+  },
+  "author": "Ratish Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RatishBansal/Call-Blocker/issues"
+  },
+  "homepage": "https://github.com/RatishBansal/Call-Blocker#readme"
+}
